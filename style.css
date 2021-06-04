@@ -1,0 +1,88 @@
+.top{
+  background-color: #e4f9f5;
+  position:relative;
+}
+body{
+  margin: 0px;
+  text-align: center;
+}
+h1{
+  padding-top: 400px;
+  margin-top: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  color: #66bfbf;
+}
+.GB{
+  position: absolute;
+  right:100px;
+  top: 100px;
+  height: 200px;
+  width: 200px;
+}
+.computer{
+  left: 150px;
+  bottom:  50px;
+  position: absolute;
+}
+h3{
+  color: #66bfbf;
+  font-size: 50px;
+}
+
+h2{
+  color: #66bfbf;
+
+}
+.profile{
+  width: 50%;
+  margin: auto;
+}
+hr{
+  border: dotted;
+  border-bottom: none;
+  width: 25%;
+  color: #66bfbf;
+}
+.gif1{
+  float:left;
+  margin-right: 40px;
+}
+.skills{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+.scratch{
+  float:right;
+  margin-left: 40px;
+}
+.bottom{
+  background-color: #66bfbf;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 12px 24px 13px 18px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #84cbfa);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #84cbfa);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #84cbfa);
+  background-image: -o-linear-gradient(top, #3cb0fd, #84cbfa);
+  background-image: linear-gradient(to bottom, #3cb0fd, #84cbfa);
+  text-decoration: none;
+}
